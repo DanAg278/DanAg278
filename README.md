@@ -1,6 +1,9 @@
 ### Hi there, I am Daniel! 👋
 I'm a Sofware Engineer | Full Stack Engineer/Developer
 ## Connect with me:
+<a href="https://www.linkedin.com/in/your-profile-url/">
+  <img src="./img/linkedin-in.svg" alt="LinkedIn" width="30">
+</a>
 [![LinkedIn](./img/linkedin-in.svg)](https://www.linkedin.com/in/daniel-aguilar-b51a88193/)
 
 <!--
