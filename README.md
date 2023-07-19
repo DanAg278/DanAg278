@@ -1,7 +1,7 @@
 ### Hi there, I am Daniel! 👋
 I'm a Sofware Engineer | Full Stack Engineer/Developer
 ## Connect with me:
-[![LinkedIn](./img/linkedin-icon.png)](https://www.linkedin.com/in/daniel-aguilar-b51a88193/)
+[![LinkedIn](./img/linkedin-in.svg)](https://www.linkedin.com/in/daniel-aguilar-b51a88193/)
 
 <!--
 **DanAg278/DanAg278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
