@@ -1,4 +1,4 @@
-### Hi there, I am Daniel! 👋
+# Hi there, I am Daniel! 👋
 I'm a Sofware Engineer | Full Stack Engineer/Developer
 
 Passionate and dedicated computer science professional with a strong background in software
