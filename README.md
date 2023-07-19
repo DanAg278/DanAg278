@@ -2,7 +2,7 @@
 I'm a Sofware Engineer | Full Stack Engineer/Developer
 ## Connect with me:
 <a href="https://www.linkedin.com/in/daniel-aguilar-b51a88193/" target="_blank">
-  <img src="./img/linkedin-in.svg" alt="LinkedIn" width="30">
+  <img src="./img/linkedin-dark.svg" alt="LinkedIn" width="30">
 </a>
 <!--
 **DanAg278/DanAg278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
