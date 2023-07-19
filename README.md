@@ -7,6 +7,9 @@ committed to software quality which makes me follow practices like agile develop
 code, SOLID, Refactoring and TDD. I have strong skills as a Full-Stack developer. We are
 one message apart!
 
+## Academic publishing:
+[My paper](https://ieeexplore.ieee.org/document/9590750) - Text-based CAPTCHA Vulnerability Assessment using a Deep Learning-based Solver.
+
 ## Connect with me:
 <a href="https://www.linkedin.com/in/daniel-aguilar-b51a88193/" target="_blank">
   <img src="./img/linkedin.svg" alt="LinkedIn" width="30">
