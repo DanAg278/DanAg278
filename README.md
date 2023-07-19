@@ -11,7 +11,7 @@ one message apart!
 ## :books: Academic publishing :
  Text-based CAPTCHA Vulnerability Assessment using a Deep Learning-based Solver .
 <a href="https://ieeexplore.ieee.org/document/9590750" target="_blank">
-  <img src="./img/file-lines-regular.svg" alt="LinkedIn" width="30">
+  <img src="./img/file-icon.png" alt="LinkedIn" width="30">
 </a>  
 
 ## :calling: Connect with me :
