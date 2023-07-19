@@ -4,7 +4,7 @@ I'm a Sofware Engineer | Full Stack Engineer/Developer
 Passionate and dedicated computer science professional with a strong background in software
 engineering and a keen interest in solving complex problems. As a Software Engineer, I’m
 committed to software quality which makes me follow practices like agile development, clean
-code, SOLID, Refactoring and TDD. I have strong skills as a full-stack developer. We are
+code, SOLID, Refactoring and TDD. I have strong skills as a Full-Stack developer. We are
 one message apart!
 
 ## Connect with me:
