@@ -9,14 +9,14 @@ code, SOLID, Refactoring and TDD. I have strong skills as a Full-Stack developer
 one message apart!
 
 ## :books: Academic publishing :
- Text-based CAPTCHA Vulnerability Assessment using a Deep Learning-based Solver .
+ Text-based CAPTCHA Vulnerability Assessment using a Deep Learning-based Solver.
 <a href="https://ieeexplore.ieee.org/document/9590750" target="_blank">
   <img src="./img/file-icon.png" alt="LinkedIn" width="30">
 </a>  
 
 ## :calling: Connect with me :
 <a href="https://www.linkedin.com/in/daniel-aguilar-b51a88193/" target="_blank">
-  <img src="./img/linkedin.svg" alt="LinkedIn" width="30">
+  <img src="./img/linkedin.png" alt="LinkedIn" width="30">
 </a> 
 
 
